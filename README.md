@@ -4,10 +4,12 @@
 
 ---
 
-## Cloud computing
+## Cloud computing [Architecture](https://www.geeksforgeeks.org/architecture-of-cloud-computing/)
 - The practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
 - Examples would include: Dropbox, a file storage and sharing system. Microsoft Azure, which offers backup and disaster recovery services, hosting, and more. Rackspace, which offers data, security, and infrastructure services.
 - There are also three main types of cloud computing services: ***Infrastructure-as-a-Service (IaaS)***, ***Platforms-as-a-Service (PaaS)***, and ***Software-as-a-Service (SaaS)***
+
+![Cloud Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210318074917/archcloud2.png)
 
 ### Before Cloud computing
 - ***Grid Computing*** - Multiple computer are connected through the same node and if any of them fails it won't affect the other node compare to distributed computing where a computer con interact with other computer here in grid this is not possible.
