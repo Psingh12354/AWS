@@ -15,7 +15,7 @@
   
 ### Grid Vs Cloud
 
-![Grid Vs Cloud](https://www.businesstechweekly.com/operational-efficiency/cloud-computing/what-is-cloud-computing-what-is-the-cloud/)
+![Grid Vs Cloud](https://pediaa.com/wp-content/uploads/2018/09/Difference-Between-Grid-and-Cloud-Computing-Comparison-Summary-693x1024.jpg)
 ## What is AWS?
 - AWS stands for Amazon Web Services.
 - The AWS service is provided by the Amazon that uses distributed IT infrastructure to provide different IT resources available on demand. It provides different services such as infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS).
