@@ -8,6 +8,7 @@
 - The practice of using a network of remote servers hosted on the internet to store, manage, and process data, rather than a local server or a personal computer.
 - Examples would include: Dropbox, a file storage and sharing system. Microsoft Azure, which offers backup and disaster recovery services, hosting, and more. Rackspace, which offers data, security, and infrastructure services.
 - There are also three main types of cloud computing services: ***Infrastructure-as-a-Service (IaaS)***, ***Platforms-as-a-Service (PaaS)***, and ***Software-as-a-Service (SaaS)***
+- Types of cloud [link](https://www.geeksforgeeks.org/types-of-cloud/)
 
 ![Cloud Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210318074917/archcloud2.png)
 
